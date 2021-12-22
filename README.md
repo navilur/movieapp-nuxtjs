@@ -1,1 +1,1 @@
-# movieapp-vue-nuxt-
+# movieapp-vue-nuxt
