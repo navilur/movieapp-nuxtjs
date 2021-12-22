@@ -1,4 +1,4 @@
-# movieapp
+# Movie App
 
 ## Build Setup
 
